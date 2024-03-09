@@ -2,4 +2,4 @@
 
 - Estado del Proyecto: terminado.
 
-- Adaptaciones de tamaño: PC y Telrfono. 
+- Adaptaciones de tamaño: PC y Mobile. 
