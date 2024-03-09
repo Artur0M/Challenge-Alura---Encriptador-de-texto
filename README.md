@@ -4,4 +4,4 @@
 
 - Adaptaciones de tamaño: PC y Mobile.
 
-- #challengeonedecodificador4
+- #challengeonedecodificador6
